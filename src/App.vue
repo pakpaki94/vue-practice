@@ -95,7 +95,7 @@ a {
     padding: 10px;
 }
 .room-img {
-	width: 100%;
+	width: 70%;
 	margin-top: 40px;
 }
 
